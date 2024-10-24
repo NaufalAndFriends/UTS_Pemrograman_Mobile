@@ -1,23 +1,63 @@
-# login_app
-# UTS
+Untuk membuat tampilan dan teks di `README.md` lebih menarik, Anda bisa memperkaya tata letak dan memanfaatkan fitur markdown dengan baik. Berikut adalah contoh bagaimana Anda dapat memperbaikinya:
 
-Nama  : Avail Dwi Febrianto
-Kelas : 2D TRPL
-NIM   : 2170
+---
 
-![Screenshot](assets/images/1.png)
-![Screenshot](assets/images/2.png)
-![Screenshot](assets/images/3.png)
+# Login Flutter App
 
+### Ujian Tengah Semester (UTS)  
+**Nama**  : Avail Dwi Febrianto  
+**Kelas** : 2D TRPL  
+**NIM**   : 2170  
 
-Login Flutter App
+---
 
-A new Flutter project.
+## 📱 Aplikasi Login Flutter
 
-## Getting Started
+Selamat datang di **Login Flutter App**, proyek aplikasi login sederhana yang dibuat menggunakan Flutter.
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](assets/images/1.png)
+![Screenshot 2](assets/images/2.png)
+![Screenshot 3](assets/images/3.png)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-# flutter-login-app
+## 🚀 Memulai
+
+Proyek ini adalah titik awal untuk aplikasi Flutter. Anda dapat menggunakan proyek ini untuk mempelajari dasar-dasar Flutter atau sebagai pondasi untuk membangun aplikasi lebih lanjut.
+
+## 🛠️ Fitur Aplikasi
+
+- **UI Responsif**: Desain antarmuka yang menyesuaikan dengan berbagai ukuran layar.
+- **Form Validasi**: Fitur validasi input pengguna pada form login.
+- **Navigasi Halaman**: Navigasi yang mudah dan efisien antar halaman aplikasi.
+
+---
+
+## 🖼️ Cuplikan Layar
+
+| Tampilan 1 | Tampilan 2 | Tampilan 3 |
+|------------|------------|------------|
+| ![Screenshot 1](assets/images/1.png) | ![Screenshot 2](assets/images/2.png) | ![Screenshot 3](assets/images/3.png) |
+
+---
+
+## ⚙️ Cara Menjalankan Proyek
+
+1. **Clone Repository**:  
+   ```bash
+   git clone https://github.com/username/flutter-login-app.git
+   ```
+
+2. **Jalankan Aplikasi**:  
+   Navigasi ke direktori proyek, kemudian jalankan perintah berikut:  
+   ```bash
+   flutter run
+   ```
+
+---
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek ini, silakan buat _pull request_ atau buka _issue_ untuk diskusi lebih lanjut.
+
+---
