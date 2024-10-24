@@ -1,4 +1,4 @@
-Untuk membuat tampilan dan teks di `README.md` lebih menarik, Anda bisa memperkaya tata letak dan memanfaatkan fitur markdown dengan baik. Berikut adalah contoh bagaimana Anda dapat memperbaikinya:
+
 
 ---
 
